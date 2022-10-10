@@ -1,0 +1,199 @@
+#EXTM3U
+#EXTINF:-1,01 Первый канал (ТЕСТ)
+http://31.211.77.158:8000/play/a201/index.m3u8
+#EXTINF:-1,02 РОССИЯ-1 (ТЕСТ)
+http://31.211.77.158:8000/play/a202/index.m3u8
+#EXTINF:-1,03 МАТЧ! (ТЕСТ)
+http://31.211.77.158:8000/play/a203/index.m3u8
+#EXTINF:-1,04 НТВ (ТЕСТ)
+http://31.211.77.158:8000/play/a204/index.m3u8
+#EXTINF:-1,05 ПЯТЫЙ КАНАЛ (ТЕСТ)
+http://31.211.77.158:8000/play/a205/index.m3u8
+#EXTINF:-1,06 РОССИЯ-К (ТЕСТ)
+http://31.211.77.158:8000/play/a206/index.m3u8
+#EXTINF:-1,07 РОССИЯ-24 (ТЕСТ)
+http://31.211.77.158:8000/play/a207/index.m3u8
+#EXTINF:-1,08 КАРУСЕЛЬ (ТЕСТ)
+http://31.211.77.158:8000/play/a208/index.m3u8
+#EXTINF:-1,09 ОТР (ТЕСТ)
+http://31.211.77.158:8000/play/a209/index.m3u8
+#EXTINF:-1,10 ТВ Центр (ТЕСТ)
+http://31.211.77.158:8000/play/a210/index.m3u8
+#EXTINF:-1,11 РЕН ТВ (ТЕСТ)
+http://31.211.77.158:8000/play/a211/index.m3u8
+#EXTINF:-1,12 Спас (ТЕСТ)
+http://31.211.77.158:8000/play/a212/index.m3u8
+#EXTINF:-1,13 СТС (ТЕСТ)
+http://31.211.77.158:8000/play/a213/index.m3u8
+#EXTINF:-1,14 Домашний (ТЕСТ)
+http://31.211.77.158:8000/play/a214/index.m3u8
+#EXTINF:-1,15 ТВ3 (ТЕСТ)
+http://31.211.77.158:8000/play/a215/index.m3u8
+#EXTINF:-1,16 Пятница (ТЕСТ)
+http://31.211.77.158:8000/play/a216/index.m3u8
+#EXTINF:-1,17 Звезда (ТЕСТ)
+http://31.211.77.158:8000/play/a217/index.m3u8
+#EXTINF:-1,18 МИР (ТЕСТ)
+http://31.211.77.158:8000/play/a218/index.m3u8
+#EXTINF:-1,19 ТНТ (ТЕСТ)
+http://31.211.77.158:8000/play/a219/index.m3u8
+#EXTINF:-1,20 МУЗ ТВ (ТЕСТ)
+http://31.211.77.158:8000/play/a220/index.m3u8
+#EXTINF:-1,Томское время (mcast)
+http://31.211.77.158:8000/play/a221/index.m3u8
+#EXTINF:-1,Продвижение - СТВ
+https://live.stv-tv.ru/playlist2.m3u8
+#EXTINF:-1,Ювелирочка
+http://95.47.98.99:4000/play/a059/index.m3u8
+#EXTINF:-1,Суббота
+http://tv.streams.baikal-telecom.net/Subbota/index.m3u8
+#EXTINF:-1,Шоппинг Лайв
+http://origin5.mediacdn.ru/live/shoppinglivedist/index.m3u8
+#EXTINF:-1,ТНТ4
+http://31.211.77.158:8000/play/a072/index.m3u8
+#EXTINF:-1,RU TV
+http://31.211.77.158:8000/play/a023/index.m3u8
+#EXTINF:-1,Точка ТВ
+http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
+#EXTINF:-1,Мир 24
+http://31.211.77.158:8000/play/a036/index.m3u8
+#EXTINF:-1,Ю
+http://31.211.77.158:8000/play/a068/index.m3u8
+#EXTINF:-1,Disney
+http://31.211.77.158:8000/play/a043/index.m3u8
+#EXTINF:-1,LEOMAX 24
+http://31.211.77.158:8000/play/a138/index.m3u8
+#EXTINF:-1,2x2
+http://31.211.77.158:8000/play/a048/index.m3u8
+#EXTINF:-1,360
+http://31.211.77.158:8000/play/a133/index.m3u8
+#EXTINF:-1,Че
+http://31.211.77.158:8000/play/a067/index.m3u8
+#EXTINF:-1,Восьмой канал
+http://31.211.77.158:8000/play/a182/index.m3u8
+#EXTINF:-1,РБК
+http://31.211.77.158:8000/play/a129/index.m3u8
+#EXTINF:-1,Русский роман
+http://31.211.77.158:8000/play/a112/index.m3u8
+#EXTINF:-1,Bridge TV Русский хит
+http://31.211.77.158:8000/play/a035/index.m3u8
+#EXTINF:-1,СТС Love
+http://31.211.77.158:8000/play/a071/index.m3u8
+#EXTINF:-1,Мульт
+http://31.211.77.158:8000/play/a047/index.m3u8
+#EXTINF:-1,Матч! Страна
+http://31.211.77.158:8000/play/a085/index.m3u8
+#EXTINF:-1,Известия
+http://31.211.77.158:8000/play/a167/index.m3u8
+#EXTINF:-1,Родное кино
+http://31.211.77.158:8000/play/a114/index.m3u8
+#EXTINF:-1,KHL
+http://31.211.77.158:8000/play/a077/index.m3u8
+#EXTINF:-1,Союз
+http://31.211.77.158:8000/play/a180/index.m3u8
+#EXTINF:-1,Bridge TV
+http://31.211.77.158:8000/play/a022/index.m3u8
+#EXTINF:-1,Bridge TV Dance
+http://31.211.77.158:8000/play/a033/index.m3u8
+#EXTINF:-1,Рыжий
+http://31.211.77.158:8000/play/a049/index.m3u8
+#EXTINF:-1,Телекафе
+http://31.211.77.158:8000/play/a195/index.m3u8
+#EXTINF:-1,Звезда+
+http://31.211.77.158:8000/play/a037/index.m3u8
+#EXTINF:-1,КиноКомедия
+http://31.211.77.158:8000/play/a107/index.m3u8
+#EXTINF:-1,Киномикс
+http://31.211.77.158:8000/play/a105/index.m3u8
+#EXTINF:-1,Комедия
+http://31.211.77.158:8000/play/a124/index.m3u8
+#EXTINF:-1,Матч Премьер
+http://31.211.77.158:8000/play/a069/index.m3u8
+#EXTINF:-1,Живая планета
+http://31.211.77.158:8000/play/a172/index.m3u8
+#EXTINF:-1,Арена
+http://31.211.77.158:8000/play/a082/index.m3u8
+#EXTINF:-1,Игра
+http://31.211.77.158:8000/play/a084/index.m3u8
+#EXTINF:-1,Ani
+http://31.211.77.158:8000/play/a055/index.m3u8
+#EXTINF:-1,ЖАРА TV
+http://31.211.77.158:8000/play/a040/index.m3u8
+#EXTINF:-1,Доктор
+http://31.211.77.158:8000/play/a160/index.m3u8
+#EXTINF:-1,Боец
+http://31.211.77.158:8000/play/a083/index.m3u8
+#EXTINF:-1,БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1,ТНВ Татарстан
+http://31.211.77.158:8000/play/a131/index.m3u8
+#EXTINF:-1,Москва 24
+http://188.191.160.238:9099/channel/Moskva_24.ts
+#EXTINF:-1,Беларусь 24
+http://31.211.77.158:8000/play/a134/index.m3u8
+#EXTINF:-1,История
+http://31.211.77.158:8000/play/a162/index.m3u8
+#EXTINF:-1,Мама
+http://31.211.77.158:8000/play/a046/index.m3u8
+#EXTINF:-1,НСТ
+http://31.211.77.158:8000/play/a117/index.m3u8
+#EXTINF:-1,Наука
+http://31.211.77.158:8000/play/a163/index.m3u8
+#EXTINF:-1,Авто Плюс
+http://31.211.77.158:8000/play/a168/index.m3u8
+#EXTINF:-1,24 Techno
+http://31.211.77.158:8000/play/a147/index.m3u8
+#EXTINF:-1,О!
+https://sc.id-tv.kz/o.m3u8
+#EXTINF:-1,Кино ТВ
+http://31.211.77.158:8000/play/a123/index.m3u8
+#EXTINF:-1,НТВ Стиль
+http://ntv-hls-orig.cdnvideo.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ Хит
+http://ntv-hls-orig.cdnvideo.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Моя планета
+http://31.211.77.158:8000/play/a185/index.m3u8
+#EXTINF:-1,Победа
+https://sc.id-tv.kz/Pobeda.m3u8
+#EXTINF:-1,Black
+http://31.211.77.158:8000/play/a099/index.m3u8
+#EXTINF:-1,365
+http://31.211.77.158:8000/play/a101/index.m3u8
+#EXTINF:-1,Радио вести ФМ
+https://radio-live-mg.rtr-vesti.ru/hls2/vesti_fm/playlist_6.m3u8
+#EXTINF:-1,Радио Маяк
+https://radio-live-mg.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Радио России
+https://radio-live-mg.rtr-vesti.ru/hls/radio_rus/playlist_3.m3u8
+#EXTINF:-1,Первый канал HD
+http://31.211.77.158:8000/play/a065/index.m3u8
+#EXTINF:-1,Россия HD
+http://78.25.155.47:1309/channel/Ros_HD.ts
+#EXTINF:-1,Матч HD
+http://78.25.155.47:1309/channel/Match_HD.ts
+#EXTINF:-1,НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Матч Премьер HD
+http://31.211.77.158:8000/play/a086/index.m3u8
+#EXTINF:-1,Пятница! HD
+https://bl.uma.media/live/410336/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1,МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,RTG HD
+http://31.211.77.158:8000/play/a183/index.m3u8
+#EXTINF:-1,Охотник и рыболов HD
+http://31.211.77.158:8000/play/a156/index.m3u8
+#EXTINF:-1,360 HD
+http://188.191.160.238:9099/channel/360_Podmoskovie_HD.ts
+#EXTINF:-1,RT HD
+http://31.211.77.158:8000/play/a187/index.m3u8
+#EXTINF:-1,RTД HD
+http://31.211.77.158:8000/play/a032/index.m3u8
+#EXTINF:-1,Планета HD
+http://31.211.77.158:8000/play/a127/index.m3u8
+#EXTINF:-1,Приключения HD
+http://31.211.77.158:8000/play/a188/index.m3u8
+#EXTINF:-1,Еда Премиум
+http://31.211.77.158:8000/play/a193/index.m3u8
+#EXTINF:-1,Дом кино HD
+http://31.211.77.158:8000/play/a091/index.m3u8

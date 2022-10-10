@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,01 Первый канал
+http://31.211.77.158:8000/play/a201/index.m3u8
+#EXTINF:-1,02 РОССИЯ-1
+http://31.211.77.158:8000/play/a202/index.m3u8
+#EXTINF:-1,03 МАТЧ!
+http://31.211.77.158:8000/play/a203/index.m3u8
+#EXTINF:-1,04 НТВ
+http://31.211.77.158:8000/play/a204/index.m3u8
+#EXTINF:-1,05 ПЯТЫЙ КАНАЛ
+http://31.211.77.158:8000/play/a205/index.m3u8
+#EXTINF:-1,06 РОССИЯ-К
+http://31.211.77.158:8000/play/a206/index.m3u8
+#EXTINF:-1,07 РОССИЯ-24
+http://31.211.77.158:8000/play/a207/index.m3u8
+#EXTINF:-1,08 КАРУСЕЛЬ
+http://31.211.77.158:8000/play/a208/index.m3u8
+#EXTINF:-1,09 ОТР
+http://31.211.77.158:8000/play/a209/index.m3u8
+#EXTINF:-1,10 ТВ Центр
+http://31.211.77.158:8000/play/a210/index.m3u8
+#EXTINF:-1,11 РЕН ТВ
+http://31.211.77.158:8000/play/a211/index.m3u8
+#EXTINF:-1,12 Спас
+http://31.211.77.158:8000/play/a212/index.m3u8
+#EXTINF:-1,13 СТС
+http://31.211.77.158:8000/play/a213/index.m3u8
+#EXTINF:-1,14 Домашний
+http://31.211.77.158:8000/play/a214/index.m3u8
+#EXTINF:-1,15 ТВ3
+http://31.211.77.158:8000/play/a215/index.m3u8
+#EXTINF:-1,16 Пятница
+http://31.211.77.158:8000/play/a216/index.m3u8
+#EXTINF:-1,17 Звезда
+http://31.211.77.158:8000/play/a217/index.m3u8
+#EXTINF:-1,18 МИР
+http://31.211.77.158:8000/play/a218/index.m3u8
+#EXTINF:-1,19 ТНТ
+http://31.211.77.158:8000/play/a219/index.m3u8
+#EXTINF:-1,20 МУЗ ТВ
+http://31.211.77.158:8000/play/a220/index.m3u8
+#EXTINF:-1,21 Томское время
+http://31.211.77.158:8000/play/a221/index.m3u8
+#EXTINF:-1,22 Продвижение - СТВ
+https://live.stv-tv.ru/playlist2.m3u8
+#EXTINF:-1,23 Ювелирочка
+http://95.47.98.99:4000/play/a059/index.m3u8
+#EXTINF:-1,24 LEOMAX 24
+http://31.211.77.158:8000/play/a138/index.m3u8
+#EXTINF:-1,25 RU TV
+http://31.211.77.158:8000/play/a023/index.m3u8
+#EXTINF:-1,26 Ю
+http://31.211.77.158:8000/play/a068/index.m3u8
+#EXTINF:-1,27 Точка ТВ
+http://188.191.160.238:9099/channel/Tochka_TV.ts
+#EXTINF:-1,28 Мир 24
+http://31.211.77.158:8000/play/a036/index.m3u8
+#EXTINF:-1,29 Шоппинг Лайв
+http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
+#EXTINF:-1,30 ТНТ4
+http://31.211.77.158:8000/play/a072/index.m3u8
+#EXTINF:-1,31 Матч! Страна
+http://31.211.77.158:8000/play/a085/index.m3u8
+#EXTINF:-1,32 Disney
+http://31.211.77.158:8000/play/a043/index.m3u8
+#EXTINF:-1,33 360
+http://31.211.77.158:8000/play/a133/index.m3u8
+#EXTINF:-1,34 Русский роман
+http://31.211.77.158:8000/play/a112/index.m3u8
+#EXTINF:-1,35 Мульт
+http://31.211.77.158:8000/play/a047/index.m3u8
+#EXTINF:-1,36 РБК
+http://31.211.77.158:8000/play/a129/index.m3u8
